@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/locSDK_3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/library-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xstream-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/nbs.newlens.agent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/zxing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/baidumapapi_v3_2_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/KJFrameForAndroid_v2.223.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/butterknife-5.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/android-async-http-1.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
